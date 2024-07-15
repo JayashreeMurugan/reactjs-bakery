@@ -1,0 +1,27 @@
+.gallery {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .gallery h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .image-container {
+    margin: 10px;
+  }
+  
+  .gallery-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover; /* Ensures the image fills the 300x300 box */
+    border-radius: 8px; /* Optional: Adds rounded corners to the image */
+  }
+  

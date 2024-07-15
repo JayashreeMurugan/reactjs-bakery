@@ -1,0 +1,19 @@
+.food {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .food h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5rem;
+    
+
+   
+  }
+  

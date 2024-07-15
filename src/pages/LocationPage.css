@@ -1,0 +1,14 @@
+.location {
+    padding: 2rem;
+    background-color: #f5f5dc;
+    color: #333;
+  }
+  
+  .location h2 {
+    font-size: 2rem;
+  }
+  
+  .location p {
+    font-size: 1.2rem;
+  }
+  

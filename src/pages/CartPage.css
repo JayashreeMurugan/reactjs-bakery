@@ -1,0 +1,39 @@
+.cart {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .cart h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .cart ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart ul li {
+    background-color: #f5f5dc;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cart ul li button {
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .cart ul li button:hover {
+    background-color: #e5533d;
+  }
+  
